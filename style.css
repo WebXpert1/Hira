@@ -1,0 +1,45 @@
+ p{color:brown;
+            }
+            .text {
+                color:aqua}
+            #textid{
+                color:green;
+                background-color: black;
+                font-size:40px;
+                font-family: sans-serif;
+                text-align: center;
+                text-decoration:none;
+                text-transform: lowercase;
+                font-weight: 100px;
+            }
+            h1{color: red;}
+            h2{color: navy;}
+            .box{
+                margin: 100px 20px 100px 20px;
+            padding: 50px;
+        box-sizing: border-box;
+    height: 200px;
+width: 300px;
+outline: 10px solid green;
+border: 12px dashed;}
+.heading{
+    text-align: center;
+}
+    div{
+        height: 100px;
+    width: 200px;
+border: 30px;
+.box{background-color: grey;}
+    }
+    .box4{
+        background-color: grey;
+    width: 1400px;}
+    .box2{
+        background-color: black;
+        float: right;
+        width: 1000px;
+    }
+    .box3{
+        width: 400px;
+        background-color: blue;}
+    
